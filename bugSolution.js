@@ -1,0 +1,1 @@
+The `use` keyword in the app directory provides a more robust solution by performing the data fetching process before the component is rendered. This avoids the potential pitfalls of using useEffect without dependencies.   Error handling and loading states are also implemented.
